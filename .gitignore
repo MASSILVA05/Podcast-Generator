@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log
+
+# Outputs & uploads
+outputs/
+temp_uploads/
+
+# Mac
+.DS_Store
+
+# Docker
+*.log
